@@ -2,7 +2,7 @@ Olá! Eu sou Lucas Fischer.
 
 Sobre mim
 
-🎓 Cursei Engenharia Elétrica e fui monitor de uma disciplina na faculdade.
+🎓 Cursei Engenharia Elétrica e fui monitor de uma disciplina na faculdade. Neste curso, aprendi a programar em C, percebi que amava programação e por isso estou cursando Ciências da Computação na PUCRS, curso no qual ingressei em fevereiro de 2025.
 
 📝 Durante a monitoria, ajudei alunos com o aprendizado e criei questões para provas, que estão disponíveis em meu repositório Monitoria-EngEletrica.
 
